@@ -1,0 +1,10 @@
+C:\Users\joao.hbrivoli\source\repos\Ex10\Ex10\bin\Debug\Ex10.exe.config
+C:\Users\joao.hbrivoli\source\repos\Ex10\Ex10\bin\Debug\Ex10.exe
+C:\Users\joao.hbrivoli\source\repos\Ex10\Ex10\bin\Debug\Ex10.pdb
+C:\Users\joao.hbrivoli\source\repos\Ex10\Ex10\obj\Debug\Ex10.csproj.SuggestedBindingRedirects.cache
+C:\Users\joao.hbrivoli\source\repos\Ex10\Ex10\obj\Debug\Ex10.Form1.resources
+C:\Users\joao.hbrivoli\source\repos\Ex10\Ex10\obj\Debug\Ex10.Properties.Resources.resources
+C:\Users\joao.hbrivoli\source\repos\Ex10\Ex10\obj\Debug\Ex10.csproj.GenerateResource.cache
+C:\Users\joao.hbrivoli\source\repos\Ex10\Ex10\obj\Debug\Ex10.csproj.CoreCompileInputs.cache
+C:\Users\joao.hbrivoli\source\repos\Ex10\Ex10\obj\Debug\Ex10.exe
+C:\Users\joao.hbrivoli\source\repos\Ex10\Ex10\obj\Debug\Ex10.pdb
