@@ -1,0 +1,11 @@
+C:\Users\joão henrique\source\repos\Ex13\Ex13\bin\Debug\Ex13.exe.config
+C:\Users\joão henrique\source\repos\Ex13\Ex13\bin\Debug\Ex13.exe
+C:\Users\joão henrique\source\repos\Ex13\Ex13\bin\Debug\Ex13.pdb
+C:\Users\joão henrique\source\repos\Ex13\Ex13\obj\Debug\Ex13.csproj.AssemblyReference.cache
+C:\Users\joão henrique\source\repos\Ex13\Ex13\obj\Debug\Ex13.csproj.SuggestedBindingRedirects.cache
+C:\Users\joão henrique\source\repos\Ex13\Ex13\obj\Debug\Ex13.Form1.resources
+C:\Users\joão henrique\source\repos\Ex13\Ex13\obj\Debug\Ex13.Properties.Resources.resources
+C:\Users\joão henrique\source\repos\Ex13\Ex13\obj\Debug\Ex13.csproj.GenerateResource.cache
+C:\Users\joão henrique\source\repos\Ex13\Ex13\obj\Debug\Ex13.csproj.CoreCompileInputs.cache
+C:\Users\joão henrique\source\repos\Ex13\Ex13\obj\Debug\Ex13.exe
+C:\Users\joão henrique\source\repos\Ex13\Ex13\obj\Debug\Ex13.pdb
