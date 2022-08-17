@@ -1,0 +1,10 @@
+C:\Users\joao.hbrivoli\source\repos\Ex18\Ex18\bin\Debug\Ex18.exe.config
+C:\Users\joao.hbrivoli\source\repos\Ex18\Ex18\bin\Debug\Ex18.exe
+C:\Users\joao.hbrivoli\source\repos\Ex18\Ex18\bin\Debug\Ex18.pdb
+C:\Users\joao.hbrivoli\source\repos\Ex18\Ex18\obj\Debug\Ex18.csproj.SuggestedBindingRedirects.cache
+C:\Users\joao.hbrivoli\source\repos\Ex18\Ex18\obj\Debug\Ex18.Form1.resources
+C:\Users\joao.hbrivoli\source\repos\Ex18\Ex18\obj\Debug\Ex18.Properties.Resources.resources
+C:\Users\joao.hbrivoli\source\repos\Ex18\Ex18\obj\Debug\Ex18.csproj.GenerateResource.cache
+C:\Users\joao.hbrivoli\source\repos\Ex18\Ex18\obj\Debug\Ex18.csproj.CoreCompileInputs.cache
+C:\Users\joao.hbrivoli\source\repos\Ex18\Ex18\obj\Debug\Ex18.exe
+C:\Users\joao.hbrivoli\source\repos\Ex18\Ex18\obj\Debug\Ex18.pdb

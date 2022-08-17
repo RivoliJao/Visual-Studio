@@ -1,0 +1,11 @@
+C:\Users\joao.hbrivoli\source\repos\Ex17\Ex17\bin\Debug\Ex17.exe.config
+C:\Users\joao.hbrivoli\source\repos\Ex17\Ex17\bin\Debug\Ex17.exe
+C:\Users\joao.hbrivoli\source\repos\Ex17\Ex17\bin\Debug\Ex17.pdb
+C:\Users\joao.hbrivoli\source\repos\Ex17\Ex17\obj\Debug\Ex17.csproj.AssemblyReference.cache
+C:\Users\joao.hbrivoli\source\repos\Ex17\Ex17\obj\Debug\Ex17.csproj.SuggestedBindingRedirects.cache
+C:\Users\joao.hbrivoli\source\repos\Ex17\Ex17\obj\Debug\Ex17.Form1.resources
+C:\Users\joao.hbrivoli\source\repos\Ex17\Ex17\obj\Debug\Ex17.Properties.Resources.resources
+C:\Users\joao.hbrivoli\source\repos\Ex17\Ex17\obj\Debug\Ex17.csproj.GenerateResource.cache
+C:\Users\joao.hbrivoli\source\repos\Ex17\Ex17\obj\Debug\Ex17.csproj.CoreCompileInputs.cache
+C:\Users\joao.hbrivoli\source\repos\Ex17\Ex17\obj\Debug\Ex17.exe
+C:\Users\joao.hbrivoli\source\repos\Ex17\Ex17\obj\Debug\Ex17.pdb
